@@ -1,2 +1,2 @@
-https://github-angellina15.github.io/rsschool-cv/cv
-https://github-angellina15.github.io/rsschool-cv/
+https://angellina15.github.io/rsschool-cv/cv
+<p>https://angellina15.github.io/rsschool-cv/</p>
